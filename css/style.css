@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(241, 41, 41);
+}
+
+.tampilan{
+    width: 900px;
+    background-color: rgba(250, 250, 250, 0.822);
+    margin:auto;
+    padding: 16px;
+}
+table{
+    width: 95%;
+}
+.opini{
+    background-color: rgb(245, 65, 89);   
+    color: white; 
+}
+
+.alumni{
+    background-color: rgba(245, 65, 89);
+    color: white;
+}
